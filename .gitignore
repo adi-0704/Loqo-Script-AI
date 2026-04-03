@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specifics
+qa_test_output.txt
+qa_test_output_utf8.txt
+test_results.txt
+qa_results_final_1775214855170.png
+qa_results_full_1775215192103.png
+qa_results_top_1775215201542.png
+backend/test_qa_agent.py
